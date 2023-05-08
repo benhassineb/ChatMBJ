@@ -25,7 +25,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Bonjour ! Je suis Manon, votre assistante virtuelle. Je suis ici pour vous aider. Que souhaitez-vous savoir sur L\'AIDE MOBILI-JEUNE® ?',
+        message: 'Bonjour ! Je suis ici pour vous aider. Que souhaitez-vous savoir sur L\'AIDE MOBILI-JEUNE® ?',
         type: 'apiMessage',
       },
     ],
